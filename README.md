@@ -2,3 +2,5 @@
 Our first DSCI100 Git Repository
 
 Hello Summer 2022 Class!
+
+🐼
